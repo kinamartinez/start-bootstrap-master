@@ -49,3 +49,20 @@ section {
   font-weight: 400;
   margin-bottom: 75px;
 }
+
+h1{
+font-family: "Cabin Condensed","Helvetica Neue", sans-serif;
+
+
+}
+p {
+  font-family: "Merriweather", "Helvetica Neue", sans-serif;
+}
+
+.row1{
+  padding-bottom: 80px;
+}
+
+h4{
+  font-family: "Cabin Condensed","Helvetica Neue", sans-serif;
+}
